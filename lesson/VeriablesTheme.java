@@ -29,7 +29,7 @@ public class VeriablesTheme {
                 int newPrice = price - discountValue;
                 System.out.println("Discount value - " + discountValue);
                 System.out.println("New Price - " + newPrice);
-
+        System.out.println();
         System.out.println("3.Вывод на консоль слова JAVA");
                     System.out.println("   J    a  v     v  a \n"
                                      + "   J   a a  v   v  a a \n"
