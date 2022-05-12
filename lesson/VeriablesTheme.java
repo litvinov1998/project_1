@@ -31,10 +31,10 @@ public class VeriablesTheme {
                 System.out.println("New Price - " + newPrice);
         System.out.println();
         System.out.println("3.Вывод на консоль слова JAVA");
-                    System.out.println("   J    a  v     v  a \n"
-                                     + "   J   a a  v   v  a a \n"
-                                     + "J  J  aaaaa  V V  aaaaa \n"
-                                     + " JJ  a     a  V  a     a ");
+                System.out.println("   J    a  v     v  a \n"
+                                 + "   J   a a  v   v  a a \n"
+                                 + "J  J  aaaaa  V V  aaaaa \n"
+                                 + " JJ  a     a  V  a     a ");
         System.out.println();
         System.out.println("4.Отображение min и max значений числовых типов данных.");
                 int firstByte = 127;
